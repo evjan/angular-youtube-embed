@@ -1,4 +1,4 @@
-var packageName = 'brandly:angular-youtube-embed';
+var packageName = 'peterevjan:angular-youtube-embed';
 var where = 'client';
 var version = '1.1.1';
 
